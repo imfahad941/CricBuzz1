@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#407E91"
+    tools:context=".SplashScreen">
+
+
+    <ImageView
+        android:layout_width="130dp"
+        android:layout_height="130dp"
+        android:src="@mipmap/ic_launcher_round"
+        android:layout_centerInParent="true"
+        />
+
+    <TextView
+        android:id="@+id/appname"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/appsplash"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginStart="30dp"
+        android:layout_marginTop="30dp"
+        android:layout_marginEnd="30dp"
+        android:layout_marginBottom="236dp"
+        android:text="Login Page"
+        android:textColor="#FAFAFA"
+        android:textSize="25dp"
+        android:textStyle="bold"
+        tools:ignore="InvalidId,UnknownId" />
+
+
+</RelativeLayout>

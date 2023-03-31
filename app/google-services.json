@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "513739637416",
+    "project_id": "cricbuzz-94eac",
+    "storage_bucket": "cricbuzz-94eac.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:513739637416:android:0476010a2abdf5773f789d",
+        "android_client_info": {
+          "package_name": "com.example.cricbuzz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "513739637416-jcv8qv00db50881l615daupe572smedr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.cricbuzz",
+            "certificate_hash": "b84f632ec6ea03f014bb26d8cdc63e5687618c57"
+          }
+        },
+        {
+          "client_id": "513739637416-e9u6t0gslj3avjef5ujbe0klbofnh294.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3mW75C1mDzZcHtpT8HdUBsh3VS8AyBkw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "513739637416-e9u6t0gslj3avjef5ujbe0klbofnh294.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
