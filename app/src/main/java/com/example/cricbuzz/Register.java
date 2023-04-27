@@ -109,7 +109,7 @@ public class Register extends AppCompatActivity {
                                 fuser.sendEmailVerification().addOnSuccessListener(new OnSuccessListener<Void>() {
                                     @Override
                                     public void onSuccess(Void unused) {
-                                        Toast.makeText(getApplicationContext(),"Register Successfull",Toast.LENGTH_SHORT).show();
+                                        Toast.makeText(getApplicationContext(),"Registered Successfully",Toast.LENGTH_SHORT).show();
                                     }
                                 }).addOnFailureListener(new OnFailureListener() {
                                     @Override
@@ -139,9 +139,7 @@ public class Register extends AppCompatActivity {
                                     }
                                 });
 
-                                startActivity(new Intent(getApplicationContext(),MainActivity.class));
-
-
+                                startActivity(new Intent(getApplicationContext(),Login.class));
                             }
                             else
                             {

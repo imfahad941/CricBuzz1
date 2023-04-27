@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/score"
+        android:title="Scorecard"/>
+    <item android:id="@+id/comment"
+        android:title="Commentary"/>
+<item android:id="@+id/squad"
+    android:title="Squad"/>
+</menu>

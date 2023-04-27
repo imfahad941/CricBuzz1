@@ -26,7 +26,7 @@
         android:layout_marginTop="30dp"
         android:layout_marginEnd="30dp"
         android:layout_marginBottom="236dp"
-        android:text="Login Page"
+        android:text="CricBuzz"
         android:textColor="#FAFAFA"
         android:textSize="25dp"
         android:textStyle="bold"
