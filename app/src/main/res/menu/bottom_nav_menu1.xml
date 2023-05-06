@@ -5,7 +5,7 @@
         android:icon="@drawable/scorecard"/>
     <item android:id="@+id/comment"
         android:title="Commentary"
-        android:icon="@drawable/commentary"/>
+        android:icon="@drawable/commentary1"/>
 <item android:id="@+id/squad"
     android:title="Squad"
     android:icon="@drawable/squad4"/>
