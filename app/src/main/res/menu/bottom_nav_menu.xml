@@ -2,7 +2,7 @@
 <menu xmlns:android="http://schemas.android.com/apk/res/android">
     <item android:id="@+id/home"
         android:title="Live"
-        android:icon="@drawable/liv"/>
+        android:icon="@drawable/"/>
     <item android:id="@+id/notification"
         android:title="Recent"
         android:icon="@drawable/icon1"/>
