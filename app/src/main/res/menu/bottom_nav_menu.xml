@@ -2,11 +2,12 @@
 <menu xmlns:android="http://schemas.android.com/apk/res/android">
     <item android:id="@+id/home"
         android:title="Live"
-        android:icon="@drawable/live1"/>
+        android:icon="@drawable/live3"
+        />
     <item android:id="@+id/notification"
         android:title="Recent"
-        android:icon="@drawable/icon1"/>
+        android:icon="@drawable/upcoming1"/>
     <item android:title="Upcoming"
         android:id="@+id/settings"
-        android:icon="@drawable/icon2"/>
+        android:icon="@drawable/upcoming"/>
 </menu>
