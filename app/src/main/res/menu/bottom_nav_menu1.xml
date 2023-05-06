@@ -8,5 +8,5 @@
         android:icon="@drawable/commentary"/>
 <item android:id="@+id/squad"
     android:title="Squad"
-    android:icon="@drawable/squad3"/>
+    android:icon="@drawable/squad4"/>
 </menu>
