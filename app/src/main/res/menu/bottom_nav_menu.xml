@@ -3,7 +3,8 @@
     <item android:id="@+id/home"
         android:title="Live"/>
     <item android:id="@+id/notification"
-        android:title="Recent"/>
+        android:title="Recent"
+        android:icon="@drawable/icon1"/>
     <item android:title="Upcoming"
         android:id="@+id/settings"
         android:icon="@drawable/icon2"/>

@@ -107,7 +107,7 @@
         android:id="@+id/createtext"
         android:layout_width="330dp"
         android:layout_height="54dp"
-        android:text="Already have an Account?Logim here"
+        android:text="Already have an Account?Login here"
         android:textColor="#D2E13C"
         android:textSize="17dp"
         app:layout_constraintBottom_toBottomOf="parent"
