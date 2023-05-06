@@ -1,9 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <menu xmlns:android="http://schemas.android.com/apk/res/android">
     <item android:id="@+id/score"
-        android:title="Scorecard"/>
+        android:title="Scorecard"
+        android:icon="@drawable/scorecard"/>
     <item android:id="@+id/comment"
-        android:title="Commentary"/>
+        android:title="Commentary"
+        android:icon="@drawable/commentary"/>
 <item android:id="@+id/squad"
-    android:title="Squad"/>
+    android:title="Squad"
+    android:icon="@drawable/squad"/>
 </menu>
